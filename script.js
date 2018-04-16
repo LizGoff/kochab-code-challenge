@@ -27,7 +27,7 @@ function onReady() {
     }
 
     function addThingToDom() {
-        $("#thingAdd").append("<div>" + ($("#thingAdd").val()) + "</div>");
+        $("#thingAdd").append("<div>" + $("thingAddOther").val() + "</div>");
         console.log("thingAdd");
     }
 
