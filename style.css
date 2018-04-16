@@ -1,3 +1,14 @@
 body {
-    background: slategrey;
+    background: whitesmoke;
+}
+
+#thingAdd {
+    background-color:red;
+}
+
+section {
+    background-color: yellow;
+    text-align: left;
+    padding: 20px;
+    height: 20px;
 }
